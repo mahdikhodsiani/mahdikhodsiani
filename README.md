@@ -1,6 +1,6 @@
 <div dir="rtl" align="right">
 
-<h1 align="center">سلام، من Mahadi هستم 👋</h1>
+<h1 align="center">سلام، من Mahdi هستم 👋</h1>
 
 <p align="center"><strong>برنامه‌نویس و سازندهٔ نرم‌افزار</strong></p>
 <p align="center">به پروفایل من خوش آمدید؛ اینجا پروژه‌ها و فعالیت‌هایم را به اشتراک می‌گذارم.</p>
@@ -8,26 +8,9 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/mahdikhodsiani">
-    <img src="https://img.shields.io/badge/GitHub-پروفایل_من-181717?style=for-the-badge&logo=github&logoColor=white" alt="پروفایل گیت‌هاب" />
-  </a>
-  <a href="https://github.com/mahdikhodsiani/coffeeshop">
-    <img src="https://img.shields.io/badge/پروژه_منتخب-مدیریت_رستوران-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="پروژهٔ مدیریت رستوران" />
-  </a>
-</p>
-
----
-
-<div dir="rtl" align="right">
-
-## 📊 آمار و فعالیت گیت‌هاب
-
-</div>
-
-<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=mahdikhodsiani&show_icons=true&hide_border=true&theme=tokyonight&locale=fa"
-    alt="آمار گیت‌هاب Mahadi"
+    alt="آمار گیت‌هاب Mahdi"
     height="165"
   />
   <img
