@@ -1,6 +1,6 @@
 <div dir="rtl" align="right">
 
-<h1 align="center">سلام، من Mahadi هستم 👋</h1>
+<h1 align="center">سلام، من Mahdi هستم 👋</h1>
 
 <p align="center">
   برنامه‌نویس و سازندهٔ نرم‌افزار
